@@ -1,4 +1,4 @@
-**Overview**
+**OVERVIEW**
 
 Summarize any legal text using the power of Anthropic LLM. 
 
